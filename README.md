@@ -1,1 +1,1 @@
-# Finding-and-Examining-Malicious-Indicators
+# Finding and Examining Malicious Indicators
